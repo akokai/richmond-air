@@ -1,5 +1,6 @@
 *.sublime-workspace
 .ipynb_checkpoints
+settings.py
 
 # Operating system junk
 .DS_Store
